@@ -67,11 +67,3 @@ for p in plist2:
 	print(p.details())
 
 print("People created:", Person.num(), "\n")
-
-
-
-
-
-
-
-
